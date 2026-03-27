@@ -28,7 +28,7 @@ Our vision is to transform how we document our life's milestones:
 
 ## 💎 Deployed Smartcontract Details
 
-- **Contract ID**: `CDZARDL7W3IVNCQ3ZWBPO2LLTR7LXEXHSXRZ3XQ4APP3J2RPOL3PEEK5`
+- **Contract ID**: `CAKJ6KYPOUSTPGJTV3SCNPW4U24CCNT343MOW46HNVOCYH5CURC7J6CC`
 - **Network**: Stellar Testnet
 
 ![Bucket List Journey Preview](screenshot.png)
